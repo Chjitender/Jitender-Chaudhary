@@ -1,13 +1,32 @@
-👋 Hi, I’m Jitendra Chaudhary
-👀 I’m interested in building real-world web applications — especially Taxi CRMs, WordPress themes, and admin dashboards
-🌱 I’m currently learning Node.js, Azure, and product development workflows
-💞️ I’m looking to collaborate on backend systems, admin panels, and automation tools for the transport & booking industry
-📫 How to reach me: 
-📧 ch.jitendra89@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I started in WordPress and now I’m building full-stack from scratch using PHP, MySQL, and custom UI
+Hi, I'm **Jitendra Choudhary**
 
-<!---
-Chjitender/Chjitender is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a **Full Stack PHP Developer with experience in **PHP and WordPress development** and a growing focus on modern web technologies.
+
+**What I do:**
+
+* Build responsive websites using HTML WordPress, Elementor & DIVI
+* Work with PHP, MySQL, and JavaScript
+* Currently learning **cloud-based development**
+
+☁️ **Cloud & AI:**
+
+* Completed **Google Cloud Gen AI Academy (APAC Edition)**
+* Exploring Generative AI, APIs, and real-world use cases
+
+
+**Tech Stack:**
+
+* Frontend: HTML, CSS, JavaScript
+* Backend: PHP
+* Database: MySQL
+* Tools: Git, GitHub
+* Cloud: Amazon Web Services (AWS)
+
+
+
+**Contact me:**
+
+* Email: [chjitendra89@gmail.com](mailto:chjitendra89@gmail.com)
+
+⚡ **Fun Fact:**
+Started with PHP and WordPress and now moving towards full-stack + Amazon web Services.
